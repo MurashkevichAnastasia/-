@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "InterDisplay-Medium";
+  font-weight: 500;
+  font-style: normal;
+  src: local("InterDisplay-Medium"), local("Inter Display Medium"),
+    url(../fonts/InterDisplay-Medium.woff2) format("woff2"),
+    url(../fonts/InterDisplay-Medium.woff) format("woff"),
+    url(../InterDisplay-Medium.eot) format("eot");
+  font-display: swap;
+}
+
+h1 {
+  font-family: "InterDisplay-Medium";
+  font-size: 40px;
+}
